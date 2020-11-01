@@ -15,3 +15,15 @@
 ```code
   numbers = range(2,11,2)
 ```
+
+Простая статистика с числовыми последовательностями.
+```code
+  numbers = list(range(1,2,3,4))
+  
+  min(numbers)
+  
+  max(numbers)
+  
+  sum(numbers)
+
+```
